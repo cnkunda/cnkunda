@@ -1,7 +1,7 @@
 ### Hi, I'm Irankunda 👋
 
 - 🔭 I’m currently working on @ziramba
-- 📫 How to reach me: ...
+- 📫 How to reach me: nzirankunda@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnkunda)](https://github.com/anuraghazra/github-readme-stats)
 
